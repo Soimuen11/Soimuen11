@@ -35,7 +35,7 @@ Je crois à un web ouvert, au logiciel libre et au partage des connaissances. C'
 | 📚 [**FreeWiki**](https://github.com/Soimuen11/FreeWiki) | Un wiki ouvert à tous, avec des cheatsheets pour sysadmins. Sentez-vous libres de le faire vivre ! |
 | 🔐 [**PPM**](https://github.com/Soimuen11/PPM) | Un gestionnaire de mots de passe écrit en Perl. |
 | 🐴 [**Passion Cheval**](https://passioncheval.phiannetta.xyz) | Une refonte du site web d'un centre équestre. |
- 🌐 [**C'Gigi**](https://cgigi.fr) | Le site web réalisé de l'entreprise CGigi. |
+ 🌐 [**C'Gigi**](https://cgigi.fr) | Le site web de l'entreprise CGigi. |
 
 ## ✍️ Sur le blog
 
